@@ -1,3 +1,4 @@
 # Titanic-data
 
-## https://www.kaggle.com/competitions/titanic
+## Link of the data description:
+### #https://www.kaggle.com/competitions/titanic
